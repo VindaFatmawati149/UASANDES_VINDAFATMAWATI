@@ -8,16 +8,16 @@
 
 Laravel 5.6 menggunakan PHP versi 7.0. Jadi kalau belum update dulu. Lalu pastikan sudah menginstal composer.
 
-1. Clone repository, bisa di download .zip atau dengan perintah git clone seperti ini
+1. Clone repository, dengan perintah git clone seperti ini
 
 ```
-git clone https://github.com/jhonarendra/prognet8.git
+git clone https://github.com/VindaFatmawati149/UASANDES_VINDAFATMAWATI.git
 ```
 
 2. Pada cmd, pindah ke folder prognet8 contohnya
 
 ```
-cd c:/xampp/htdocs/prognet8
+cd c:/xampp/htdocs/website-restoran-laravel
 ```
 
 lalu instal composer
