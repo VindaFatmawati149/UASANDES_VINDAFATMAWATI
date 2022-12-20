@@ -70,18 +70,3 @@ git commit -m "pesan"
 ```
 git push origin master
 ```
-## Screenshot
-![](https://raw.githubusercontent.com/jhonarendra/prognet8/master/screenshot/index.png)
-
-## Online Demo
-[DEMO](http://prognet8.tk/public)
-
-## Kelompok 8
-
-<p>1605551049 - Putu Jhonarendra</p>
-<p>1605551113 - ILHAM YOGA PRABHASWARA</p>
-<p>1605551054 - I MADE ADHIARTA WIKANTYASA</p>
-<p>1605551023 - Anak Agung Bagus Arya Wiradarma</p>
-<p>1605551097 - MARRIA TESALONIKA SIREGAR</p>
-<p>1605552028 - Dwiki Surya Chen</p>
-<p>1605552033 - Boy Jehezkiel Kamanang Mahar</p>
